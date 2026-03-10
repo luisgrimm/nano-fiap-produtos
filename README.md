@@ -1,45 +1,47 @@
-📦 CRUD de Produtos e Categorias em Java
+# 📦 CRUD de Produtos e Categorias em Java
 
-Este projeto consiste na implementação de um CRUD (Create, Read, Update, Delete) desenvolvido em Java, que permite o gerenciamento de produtos e categorias.
-O sistema possibilita cadastrar, atualizar e consultar produtos, além de organizar esses produtos por categorias.
+Este projeto consiste na implementação de um **CRUD (Create, Read, Update, Delete)** desenvolvido em **Java**, que permite o gerenciamento de **produtos e categorias**.
 
-O objetivo principal do projeto é praticar conceitos fundamentais da programação em Java, como Programação Orientada a Objetos (POO), manipulação de dados e organização de código.
+O sistema possibilita **cadastrar, atualizar e consultar produtos**, além de organizá-los por **categorias**.
 
-🚀 Funcionalidades
+O objetivo principal do projeto é praticar conceitos fundamentais da programação em **Java** e **Programação Orientada a Objetos (POO)**.
 
-O sistema possui as seguintes funcionalidades:
+---
 
-📌 Produtos
+# 🚀 Funcionalidades
 
-✔️ Cadastrar Produto
-Permite adicionar um novo produto ao sistema com informações como nome, preço e categoria.
+## 📌 Produtos
 
-✏️ Alterar Produto
-Permite atualizar os dados de um produto já cadastrado.
+- **Cadastrar Produto**  
+  Permite adicionar um novo produto ao sistema informando dados como nome, preço e categoria.
 
-🔎 Buscar Produto por ID
-Permite localizar um produto específico através do seu identificador único.
+- **Alterar Produto**  
+  Permite atualizar as informações de um produto já cadastrado.
 
-📂 Buscar Produtos por Categoria
-Permite listar todos os produtos pertencentes a uma determinada categoria.
+- **Buscar Produto por ID**  
+  Permite localizar um produto específico utilizando seu identificador único.
 
-🗂️ Categorias
+- **Buscar Produtos por Categoria**  
+  Permite listar todos os produtos pertencentes a uma determinada categoria.
 
-✔️ Cadastrar Categoria
-Permite adicionar novas categorias para organizar os produtos dentro do sistema.
+---
 
-🧠 Objetivo do Projeto
+## 🗂️ Categorias
 
-Este projeto foi desenvolvido com foco em aprendizado e prática de conceitos importantes da programação, como:
+- **Cadastrar Categoria**  
+  Permite adicionar novas categorias para organizar os produtos dentro do sistema.
 
-Programação Orientada a Objetos (POO)
+---
 
-Estruturação de classes e métodos
+# 🧠 Objetivo do Projeto
 
-Organização de código
+Este projeto foi desenvolvido com fins educacionais para praticar:
 
-Implementação de operações CRUD
+- **Programação Orientada a Objetos (POO)**
+- **Estruturação de classes e métodos**
+- **Organização de código**
+- **Implementação de operações CRUD**
+- **Manipulação de coleções em Java**
+- **Relacionamento entre entidades**
 
-Manipulação de coleções em Java
-
-Relacionamento entre entidades (Produto e Categoria)
+---
